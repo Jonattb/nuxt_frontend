@@ -47,6 +47,7 @@
 
   export default {
     head: {
+      title: 'Beautiful nuxt interface with tailwindcss · Jonattb',
       bodyAttrs: {
         class: 'bg-gray-200'
       }
