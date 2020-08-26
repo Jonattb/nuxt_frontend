@@ -1,0 +1,19 @@
+{
+  "name": "nuxt_frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "nuxt": "^2.14.0",
+    "vue2-transitions": "^0.3.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^2.1.0"
+  }
+}
