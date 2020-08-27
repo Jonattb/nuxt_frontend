@@ -1,5 +1,8 @@
 # nuxt_frontend
 
+Beautiful nuxt interface with tailwindcss
+[DEMO](https://nuxt-frontend-jonattb.herokuapp.com/)
+
 ## Build Setup
 
 ```bash
